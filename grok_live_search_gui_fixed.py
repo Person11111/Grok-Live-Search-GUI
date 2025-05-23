@@ -762,7 +762,7 @@ class GrokLiveSearchGUI:
         
     def _show_result_popup(self, content: str, citations: list = None):
         popup = tk.Toplevel(self.root)
-        popup.title("搜索结果")
+        popup.title("Result")
         popup.geometry("800x600")
         popup.transient(self.root)
         popup.grab_set()
