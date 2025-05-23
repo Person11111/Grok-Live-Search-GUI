@@ -12,7 +12,7 @@ A modern Python GUI application for interacting with Xai's Grok Live Search API.
 - **Save/Load Configurations**: Easily save and load your API key and search settings.
 
 ## Screenshots
-*(Add screenshots here if desired)*
+![Grok Live Search GUI](screenshot.png)
 
 ## Installation
 
